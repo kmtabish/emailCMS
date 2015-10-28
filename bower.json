@@ -1,0 +1,22 @@
+{
+  "name": "pet-project-cms-mail",
+  "version": "1.0.1",
+  "authors": [
+    "tabish.khan <tabish.khan@tothenew.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "latest",
+    "angular-route": "latest"
+  }
+}
